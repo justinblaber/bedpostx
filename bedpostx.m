@@ -101,7 +101,7 @@ function [bedpostx_dir_path,bedpostx_pdf_path] = bedpostx(job_dir_path, dwmri_pa
             
     % Get number of fibres
     num_fibres = 0;
-    while file(bedpostx_data_bedpostx_dir,['dyads' num2str(num_fibres+1) '.nii.gz']).exist()
+    while system_utils.file(bedpostx_data_bedpostx_dir,['dyads' num2str(num_fibres+1) '.nii.gz']).exist()
         num_fibres = num_fibres + 1;
     end
     
