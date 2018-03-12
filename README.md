@@ -30,9 +30,6 @@ The output PDF should look like:
 
 <a href="https://justinblaber.org/downloads/github/bedpostx/bedpostx.pdf">
 <p align="center">
-  <img width="769" height="995" src="https://i.imgur.com/P6vLxCP.png">
-</p>
-<p align="center">
-  <img width="768" height="994" src="https://i.imgur.com/2iuPADP.png">
+  <img width="768" height="994" src="https://i.imgur.com/wMqWb0d.png">
 </p>
 </a>
