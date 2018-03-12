@@ -14,7 +14,7 @@ git clone https://github.com/justinblaber/bedpostx.git
 wget https://justinblaber.org/downloads/github/bedpostx/PREPROCESSED.zip
 unzip PREPROCESSED.zip
 ```
-4) In MATLAB:
+3) In MATLAB:
 ```
 >> addpath('system_utils');
 >> addpath(genpath('nifti_utils'));
